@@ -1,0 +1,267 @@
+body {
+    margin: 0;
+    font-size: 18px;
+}
+
+img{
+    max-width: 100%;
+}
+
+.logo-menu{
+    width: 140px;
+    height: 45px;
+}
+
+.imgFullWidth{
+    width: 100%;
+    margin-top: 25px;
+}
+
+.imgDatas{
+    width: 100%;
+}
+
+#Menu ul {
+    margin: 0;
+    background-color: black;
+    list-style: none;
+    text-align: center;
+
+}
+#Menu ul li {
+     display: inline;
+
+}
+#Menu ul li a {
+     padding: 10px 60px;
+     display: inline-block;
+     color: white;
+     text-decoration:none ;
+     
+}
+ 
+#Menu2 ul {
+    margin: 0;
+    background-color: black;
+    list-style: none;
+}
+#Menu2 {
+    text-align: center;
+}
+#Menu2 ul li {
+     display: inline;
+}
+#Menu2 ul li a {
+     padding: 5px 60px;
+     display: inline-block;
+     color: white;
+     text-decoration:none ;
+}
+
+#Menu3 ul {
+    margin: 0;
+    background-color: black;
+    list-style: none;
+}
+#Menu3 {
+    text-align: center;
+}
+#Menu3 ul li {
+    display: inline;
+}
+#Menu3 ul li a {
+     padding: 5px 60px;
+     display: inline-block;
+     color: white;
+     text-decoration:none ;
+}
+
+#Menu4 ul {
+    margin: 0;
+    background-color: black;
+    list-style: none;
+}
+#Menu4 {
+    text-align: center;
+}
+#Menu4 ul li {
+     display: inline;
+}
+#Menu4 ul li a {
+     padding: 5px 60px;
+     display: inline-block;
+     color: white;
+     text-decoration:none ;
+}
+
+#Menu5 ul {
+    margin: 0;
+    background-color: black;
+    list-style: none;
+}
+#Menu5 {
+    text-align: center;
+}
+#Menu5 ul li {
+     display: inline;
+}
+#Menu5 ul li a {
+     padding: 5px 60px;
+     display: inline-block;
+     color: white;
+     text-decoration:none ;
+}
+
+h1 {
+    text-align: center;
+    font-family: fantasy;
+}
+
+h2 {
+    text-align: center;
+}
+
+strong{
+    font-size: 22px;
+}
+
+table{
+    width: 100%;
+    table-layout: fixed;
+    text-align: center;
+  }
+
+@media screen and (max-width : 768px) {
+    body {
+        margin: 0;
+        font-size: 18px;
+    }
+    
+    img{
+        max-width: 100%;
+    }
+    
+    .logo-menu{
+        width: 140px;
+        height: 45px;
+    }
+    
+    .imgFullWidth{
+        width: 100%;
+        margin-top: 25px;
+    }
+    
+    .imgDatas{
+        width: 100%;
+    }
+    
+    #Menu ul {
+        margin: 0;
+        background-color: black;
+        list-style: none;
+        text-align: center;
+    
+    }
+    #Menu ul li {
+         display: inline;
+    
+    }
+    #Menu ul li a {
+         padding: 10px 60px;
+         display: inline-block;
+         color: white;
+         text-decoration:none ;
+         
+    }
+     
+    #Menu2 ul {
+        margin: 0;
+        background-color: black;
+        list-style: none;
+    }
+    #Menu2 {
+        text-align: center;
+    }
+    #Menu2 ul li {
+         display: inline;
+    }
+    #Menu2 ul li a {
+         padding: 5px 60px;
+         display: inline-block;
+         color: white;
+         text-decoration:none ;
+    }
+    
+    #Menu3 ul {
+        margin: 0;
+        background-color: black;
+        list-style: none;
+    }
+    #Menu3 {
+        text-align: center;
+    }
+    #Menu3 ul li {
+        display: inline;
+    }
+    #Menu3 ul li a {
+         padding: 5px 60px;
+         display: inline-block;
+         color: white;
+         text-decoration:none ;
+    }
+    
+    #Menu4 ul {
+        margin: 0;
+        background-color: black;
+        list-style: none;
+    }
+    #Menu4 {
+        text-align: center;
+    }
+    #Menu4 ul li {
+         display: inline;
+    }
+    #Menu4 ul li a {
+         padding: 5px 60px;
+         display: inline-block;
+         color: white;
+         text-decoration:none ;
+    }
+    
+    #Menu5 ul {
+        margin: 0;
+        background-color: black;
+        list-style: none;
+    }
+    #Menu5 {
+        text-align: center;
+    }
+    #Menu5 ul li {
+         display: inline;
+    }
+    #Menu5 ul li a {
+         padding: 5px 60px;
+         display: inline-block;
+         color: white;
+         text-decoration:none ;
+    }
+    
+    h1 {
+        text-align: center;
+        font-family: fantasy;
+    }
+    
+    h2 {
+        text-align: center;
+    }
+    
+    strong{
+        font-size: 22px;
+    }
+    
+    table{
+        width: 100%;
+        table-layout: fixed;
+        text-align: center;
+      }
+}
