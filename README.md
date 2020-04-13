@@ -1,6 +1,4 @@
-# Olimpiadas2020
- 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html>
     <head>
         <title>
